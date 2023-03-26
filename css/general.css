@@ -1,0 +1,117 @@
+/* Tamaño de letra */
+
+.txt-size-1{
+    font-size: 6rem;
+}
+
+.txt-size-2{
+    font-size: 5rem;
+}
+
+.txt-size-3{
+    font-size: 4rem;
+}
+
+.txt-size-4-1{
+    font-size: 3.5rem;
+}
+
+.txt-size-4{
+    font-size: 3rem;
+}
+
+.txt-size-5-1{
+    font-size: 2.5rem;
+}
+
+.txt-size-5{
+    font-size: 2rem;
+}
+
+.txt-size-6-1{
+    font-size: 1.2rem;
+}
+
+.txt-size-6{
+    font-size: 1rem;
+}
+
+
+/* Color de texto */
+
+.color-yellow{
+    color: #eeb932;
+}
+
+.color-golden{
+    color:  #b08933;
+}
+
+
+/* Color de fondo */
+
+.bg-yellow{
+    background-color: #eeb932;
+}
+
+.bg-golden{
+    background-color:  #b08933;
+}
+
+
+/* Border */
+
+.rounded-1rem {
+    border-radius: 1rem;
+}
+
+.rounded-2rem {
+    border-radius: 2rem;
+}
+
+.rounded-2rem-top {
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+}
+
+
+
+@media only screen and (max-width: 1200px) {
+    /* Tamaño de letra */
+
+    .txt-size-1{
+        font-size: 4rem;
+    }
+
+    .txt-size-2{
+        font-size: 3rem;
+    }
+
+    .txt-size-3{
+        font-size: 2rem;
+    }
+
+    .txt-size-4-1{
+        font-size: 2rem;
+    }
+
+    .txt-size-4{
+        font-size: 2rem;
+    }
+
+    .txt-size-5-1{
+        font-size: 1.5rem;
+    }
+
+    .txt-size-5{
+        font-size: 1.3rem;
+    }
+
+    .txt-size-6-1{
+        font-size: 1rem;
+    }
+
+    .txt-size-6{
+        font-size: 1rem;
+    }
+}

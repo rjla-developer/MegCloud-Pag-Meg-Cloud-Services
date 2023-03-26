@@ -1,0 +1,9 @@
+.carousel-control-prev {
+    justify-content: end;
+    width: 5% !important;
+}
+
+.carousel-control-next{
+    justify-content: start;
+    width: 5% !important;
+}
