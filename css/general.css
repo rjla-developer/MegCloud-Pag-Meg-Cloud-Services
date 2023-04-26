@@ -75,6 +75,41 @@
 }
 
 
+/* Tipografias: */
+
+@font-face {
+    font-family: NeueBlack;
+    src: url("../fonts/NeueHaasDisplayBlack.ttf");
+}
+
+
+@font-face {
+    font-family: NeueMediu;
+    src: url("../fonts/NeueHaasDisplayMediu.ttf");
+}
+
+@font-face {
+    font-family: NeueLight;
+    src: url("../fonts/NeueHaasDisplayLight.ttf");
+}
+
+.fs-NeueBlack{
+    font-family: NeueBlack, sans-serif;
+}
+
+.fs-NeueMediu{
+    font-family: NeueMediu, sans-serif;
+}
+
+.fs-NeueLight{
+    font-family: NeueLight, sans-serif;
+}
+
+p{
+    font-family: NeueMediu, sans-serif;
+}
+
+
 
 @media only screen and (max-width: 1200px) {
     /* Tamaño de letra */
