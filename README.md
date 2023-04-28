@@ -1,4 +1,4 @@
-# Meg Cloud Services Company Page
+# Website for the company Meg Cloud Services
 
 I was asked to make the Meg Cloud Services page. </br>
  
