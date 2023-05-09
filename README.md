@@ -17,7 +17,8 @@ We have an administrator which controls the elements and for observation purpose
 </br>
 
 ## Mobile demonstration: 
-![pag cemitt celular ba](https://user-images.githubusercontent.com/83847147/236959360-ebae26f1-3153-4e41-968b-f13faba6c2fc.gif)
+![pag cemitt celular](https://user-images.githubusercontent.com/83847147/236964374-03935c36-d7b6-48c4-9b12-9f3dc6434b44.gif)
+
 
 </br>
 
