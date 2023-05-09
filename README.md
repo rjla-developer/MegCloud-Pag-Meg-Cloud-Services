@@ -1,30 +1,38 @@
-# Website for the company Meg Cloud Services
+# Website for the company Cemitt
 
-I was asked to make the Meg Cloud Services page. </br>
+This page was made with the React library, it has javascript, bootstrap 5, CSS, html. </br>
+
+As backend we have Firebase. Thanks to it we can build dynamically some elements of the page. </br>
+
+We have an administrator which controls the elements and for observation purposes can be accessed by the following link once running the program: http://localhost:3000/admin. </br>
  
-This site is built with Bootstrap 5, HTML and CSS. Currently all the design is static. </br>
 
 ![Used](https://user-images.githubusercontent.com/83847147/235205981-ec7e3be3-ddc9-4ed9-90a1-c6784285f43b.svg)
 
 </br>
 
 ## Computer demonstration:
-![MegCloudPag](https://user-images.githubusercontent.com/83847147/235180772-04815ec8-a3a5-4c03-8963-00b2a425a1fb.gif)
+![Pag cemitt](https://user-images.githubusercontent.com/83847147/236956218-191dd2c5-63e6-47ad-b8e6-d3bb2f09ddf1.gif)
 
 </br>
 
 ## Mobile demonstration: 
-![MegCloudPagMovil](https://user-images.githubusercontent.com/83847147/235197076-54365d7d-c335-4a83-98c1-233b44696e89.gif)
+![pag cemitt celular ba](https://user-images.githubusercontent.com/83847147/236959360-ebae26f1-3153-4e41-968b-f13faba6c2fc.gif)
 
 </br>
 
+## Screen of admin: 
+![Admin](https://user-images.githubusercontent.com/83847147/236963656-45a7bf45-9e5b-4e63-a8e7-e88eca2799aa.gif)
+
+</br>
 
 ## Color palette
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Used in typefaces and backgrounds | ![#eeb932](https://via.placeholder.com/10/eeb932?text=+) #eeb932 |
-| Used in typography | ![#b08933](https://via.placeholder.com/10/b08933?text=+) #b08933 |
+| Used in typefaces and backgrounds | ![#461F73](https://via.placeholder.com/10/461F73?text=+) #461F73 |
+| Used in typography | ![#BF6DC4](https://via.placeholder.com/10/BF6DC4?text=+) #BF6DC4 |
+| Used in typefaces and backgrounds | ![#BF6DC4](https://via.placeholder.com/10/BF6DC4?text=+) #BF6DC4 |
 
 </br>
 
