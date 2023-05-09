@@ -33,7 +33,7 @@ We have an administrator which controls the elements and for observation purpose
 | ----------------- | ------------------------------------------------------------------ |
 | Used in typefaces and backgrounds | ![#461F73](https://via.placeholder.com/10/461F73?text=+) #461F73 |
 | Used in typography | ![#BF6DC4](https://via.placeholder.com/10/BF6DC4?text=+) #BF6DC4 |
-| Used in typefaces and backgrounds | ![#BF6DC4](https://via.placeholder.com/10/BF6DC4?text=+) #BF6DC4 |
+| Used in typefaces and backgrounds | ![#92286E](https://via.placeholder.com/10/92286E?text=+) #92286E |
 
 </br>
 
