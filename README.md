@@ -7,7 +7,8 @@ As backend we have Firebase. Thanks to it we can build dynamically some elements
 We have an administrator which controls the elements and for observation purposes can be accessed by the following link once running the program: http://localhost:3000/admin. </br>
  
 
-![Used](https://user-images.githubusercontent.com/83847147/235205981-ec7e3be3-ddc9-4ed9-90a1-c6784285f43b.svg)
+![Tabla para lenguajes usados](https://user-images.githubusercontent.com/83847147/236964681-10c36cc5-3c9a-487b-af9d-fa38b541a71f.svg)
+
 
 </br>
 
